@@ -16,4 +16,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ## Target with Project
-Having fun and learning how to code flutter aswell as create an app that is simplier to use than other mainstream apps in this space.
+Having fun and learning how to code flutter aswell as create an app that is easier to use than other mainstream apps in this space.
